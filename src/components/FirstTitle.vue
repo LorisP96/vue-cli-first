@@ -1,15 +1,12 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>La mia prima app con Vue CLI</h1>
   </div>
 </template>
 
 <script>
 export default {
   name: 'FirstTitle',
-  props: {
-    msg: String
-  }
 }
 </script>
 
